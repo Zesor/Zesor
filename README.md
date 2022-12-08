@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Zesor
 - 👀 I’m interested in software developpement
 - 🌱 I’m currently learning C, Node.js, Docker, CPP...
-- 📫 How to reach me illyaschihi.pro@epitech.eu
+- 📫 How to reach me illyaschihi.pro@gmail.com
