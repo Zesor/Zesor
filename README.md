@@ -25,7 +25,7 @@ I'm a big believer in the power of community and collaboration. Whether it's con
 Feel free to reach out if you want to talk tech, brainstorm ideas, or collaborate on exciting projects!
 
 ### 📫 How to reach me:
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/illyas-chihi/)
-- **Email**: [youremail@example.com](illyaschihi.pro@gmail.com)
+- **LinkedIn**: [https://www.linkedin.com/in/illyas-chihi/](https://www.linkedin.com/in/illyas-chihi/)
+- **Email**: [illyaschihi.pro@gmail.com](illyaschihi.pro@gmail.com)
 
 🚀
